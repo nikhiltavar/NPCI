@@ -30,7 +30,7 @@ public class problem3 {
     }
     public static void main(String[] args) {
 //        System.out.println(getSumOfProperDivisors(496));
-        System.out.println(sumOfAmicablePairs(100,10000));
+        System.out.println(sumOfAmicablePairs(100,1000));
 //        System.out.println(isAmicable(496,496));
 
     }
