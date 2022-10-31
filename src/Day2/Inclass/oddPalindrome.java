@@ -1,4 +1,4 @@
-package Inclass;
+package Day2.Inclass;
 
 public class oddPalindrome {
     public static Boolean isPalindrome (int n){
