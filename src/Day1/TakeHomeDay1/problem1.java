@@ -1,4 +1,4 @@
-package TakeHomeDay1;
+package Day1.TakeHomeDay1;
 
 import java.util.Arrays;
 

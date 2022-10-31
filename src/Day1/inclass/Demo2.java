@@ -1,4 +1,4 @@
-package day1;
+package Day1.inclass;
 
 public class Demo2 {
     public static void main(String[] args) {

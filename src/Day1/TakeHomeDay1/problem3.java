@@ -1,4 +1,4 @@
-package TakeHomeDay1;
+package Day1.TakeHomeDay1;
 
 public class problem3 {
     public static Boolean isAmicable(int a,int b){

@@ -1,4 +1,4 @@
-package day1;
+package Day1.inclass;
 
 public class twinPrimes {
     public static Boolean isPrime(int n){

@@ -1,4 +1,4 @@
-package day1.Guided_day1;
+package Day1.Guided_day1;
 
 public class problem2 {
     public static int getProduct(int num1, int num2){

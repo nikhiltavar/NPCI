@@ -1,4 +1,4 @@
-package day1.Guided_day1;
+package Day1.Guided_day1;
 
 public class problem1 {
     public static int power(int x,int y)
