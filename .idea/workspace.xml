@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1392ae49-6043-4f23-b1a0-43b416e07357" name="Changes" comment="" />
+    <list default="true" id="1392ae49-6043-4f23-b1a0-43b416e07357" name="Changes" comment="Day 2 guided complete">
+      <change afterPath="$PROJECT_DIR$/src/Day3/Guided/problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3/Inclass/spinningString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +60,7 @@
       <recent name="C:\Users\Nikhil\IdeaProjects\NPCI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.inclass.Demo1" />
       <module name="NPCI" />
@@ -72,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Guided.problem1" />
+      <module name="NPCI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.Guided.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.TakeHomeDay1.problem3" />
       <module name="NPCI" />
@@ -87,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem1" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.problem3" />
         <item itemvalue="Application.Main" />
