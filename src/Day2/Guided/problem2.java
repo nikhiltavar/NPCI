@@ -31,6 +31,6 @@ public class problem2 {
     }
     public static void main(String[] args) {
         int[] arr = {1,3,5,7,9};
-        System.out.println(containsConsecutiveElements(arr,7));
+        System.out.println(containsConsecutiveElements(arr,8));
     }
 }

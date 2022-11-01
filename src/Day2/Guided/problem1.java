@@ -19,7 +19,7 @@ public class problem1 {
     }
     public static void main(String[] args) {
         int[] arr = {1,2,3,4};
-        int[] res = rotateNum(arr,0);
+        int[] res = rotateNum(arr,2);
         for (int i : res) {
             System.out.print(i+" ");
         }
