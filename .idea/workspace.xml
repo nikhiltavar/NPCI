@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1392ae49-6043-4f23-b1a0-43b416e07357" name="Changes" comment="Day 2 guided complete">
-      <change afterPath="$PROJECT_DIR$/src/Day3/Guided/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Inclass/spinningString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Day3/Inclass/AverageWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Day3/Inclass/emailValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Day3/Inclass/sumOfdigitsOfDecimalPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Guided/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NPCI/Day2/Takehome/problem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/Guided_day1/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/Guided_day1/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/Guided_day1/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/Guided_day1/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/TakeHomeDay1/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/TakeHomeDay1/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/TakeHomeDay1/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/TakeHomeDay1/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/TakeHomeDay1/problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/TakeHomeDay1/problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/inclass/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/inclass/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/inclass/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/inclass/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/inclass/adamNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/inclass/adamNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/inclass/quadraticSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/inclass/quadraticSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1/inclass/twinPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day1/inclass/twinPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Guided/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Guided/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Guided/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Guided/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Inclass/kaprekarNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Inclass/kaprekarNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Inclass/occurenceCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Inclass/occurenceCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Inclass/oddPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Inclass/oddPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Inclass/productPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Inclass/productPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Takehome/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Takehome/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Takehome/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day2/Takehome/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day3/Guided/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day3/Guided/problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day3/Inclass/spinningString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Day3/Inclass/spinningString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667279199749</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 2 full completion">
+      <created>1667279613142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667279613142</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
