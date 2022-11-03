@@ -9,7 +9,7 @@ public class problem1 {
         for(String w:words){
             StringBuilder sb=new StringBuilder(w);
             sb.reverse();
-            reverseWord+= sb +" ";
+            reverseWord += sb +" ";
         }
         return reverseWord.trim();
 //        return str;
