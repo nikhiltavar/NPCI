@@ -1,4 +1,4 @@
-package Day6.TakeHome;
+package Day6.Guided;
 
 public class problem2 {
     public static void main(String[] args) {
